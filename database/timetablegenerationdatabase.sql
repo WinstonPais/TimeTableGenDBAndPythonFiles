@@ -202,6 +202,10 @@ GHF	Mr Gerald H Fernandes
 RCP	Dr Rachana P
 EJS	Ms Eden J Sequeira
 PKN	Ms Prathibha K N
+KKM	Dr Kavitha Mahesh
+SPS	Ms Supriya Salian
+TYN	Mr Tyson B D’Cunha
+SVG	Ms Smitha V George
 \.
 
 
@@ -229,6 +233,7 @@ DS LAB	Data Structures Laboratory	3
 KAN	Kannada	3
 IOT LAB	Internet Of Things Laboratory	3
 V-ACT	V-ACT Soft Skills Program	3
+CPS	C Programming for Problem Solving	1
 \.
 
 
